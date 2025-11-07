@@ -22,7 +22,7 @@ Aplikasi chatbot berbasis web sederhana yang menggunakan Google Gemini API untuk
    ```
 3. Instal dependensi:
    ```bash
-   npm install
+   yarn install
    ```
 4. Buat file `.env` dan tambahkan kunci API Gemini Anda:
    ```
